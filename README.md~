@@ -2,4 +2,7 @@
 Demo for git
 
 1. Edit from local
-2. Edit from github
+<<<<<<< HEAD
+=======
+2. Edit from github (conflict)
+>>>>>>> 471c6e643514d702466d68473aa16bc7fe7effd2
